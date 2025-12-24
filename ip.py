@@ -7,7 +7,7 @@ print(" ██ ▐█ ▄█    ▪     ▐█ ▀. ██ •█▌▐█•█
 print(" ▐█· ██▀·     ▄█▀▄ ▄▀▀▀█▄▐█·▐█▐▐▌ ▐█.▪   ")
 print(" ▐█▌▐█▪·•    ▐█▌.▐▌▐█▄▪▐█▐█▌██▐█▌ ▐█▌·  ")  
 print(" ▀▀▀.▀        ▀█▄▀▪ ▀▀▀▀ ▀▀▀▀▀ █▪ ▀▀▀   ")  
-print("          Made By @Oxycrime  ")                                                                   
+print("          Made By @0xvileness  ")                                                                   
 print()
 
 
